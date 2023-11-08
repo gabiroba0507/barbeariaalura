@@ -1,6 +1,10 @@
+body {
+background:rgb(185, 223, 233);
+}
+
 h1 {
 text-align:center;
 }
 p {
-    text-align: center;
-    }
+    text-align: center
+}
